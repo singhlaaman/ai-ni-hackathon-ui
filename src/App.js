@@ -12,7 +12,7 @@ function App() {
             <Col xs="4" sm="2" className = "leftSide"></Col>
             <Col xs="8" sm="6" className = "middle">
               <div>
-                  <h1>You have been making negative posts lately. Feeling down? </h1>
+                  <h1>You have been making <span class = "negative">Negative Posts</span> lately. Feeling down? </h1>
                   <br /> 
                   <h3>Here's some resources local to you :-</h3>
               </div>

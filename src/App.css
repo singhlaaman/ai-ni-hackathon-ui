@@ -10,3 +10,8 @@
 .button{
   margin-bottom: 20px;
 }
+
+.negative{
+  color: white;
+  background-color: red;
+}
